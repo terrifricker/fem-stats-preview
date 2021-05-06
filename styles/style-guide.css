@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root {
+    --mobile-device: 375px;
+    --desktop-device: 1440px;
+
+    --very-dark-blue: hsl(233, 47%, 7%);
+    --dark-desaturated-blue: hsl(244, 38%, 16%);
+    --soft-violet: hsl(277, 64%, 61%);
+    --white: hsl(0, 0%, 100%);
+    --transparent-white-75: hsla(0, 0%, 100%0, 0.75);
+    --transparent-white-60: hsla(0, 0%, 100%, 0.6);
+
+    --body-font-size: 15px;
+    /*  font-family links added to <head> in index.html
+        Inter, weights 400 and 700
+        Lexend Deaca weight 400
+    */
+}
