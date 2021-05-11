@@ -22,7 +22,6 @@ body {
 
 .card {
     width: 375px;
-    height: 480px;
     background-color: var(--very-dark-blue);
     display: flex;
     justify-content: center;
