@@ -88,8 +88,6 @@ img {
 .desktop-image {
     width: 332.5px;
     height: 270px;
-    border-top-right-radius: 25px;
-    border-bottom-right-radius: 25px;
 }
 .hidden {
     display: none;
