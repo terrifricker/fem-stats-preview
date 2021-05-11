@@ -34,7 +34,6 @@ body {
     border-radius: 5px;
 }
 .text-area {
-    flex: 1;
     width: 365px;
     height: 270px;
     background-color: var(--dark-desaturated-blue);
