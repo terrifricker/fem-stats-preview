@@ -76,7 +76,7 @@ h2 {
     flex: 1;
     width: 332.5px;
     height: 270px;
-    position: relative;
+    background-color: var(--soft-violet);
 }
 img {
     border-top-right-radius: 5px;
