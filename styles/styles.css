@@ -82,15 +82,7 @@ img {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
-#image-overlay {
-    width: inherit;
-    height: inherit;
-    background-color: var(--soft-violet);
-    opacity: 60%;
-    position: absolute;
-    top: 0;
-    left: 0;
-}
+
 .desktop-image {
     width: 332.5px;
     height: 270px;
