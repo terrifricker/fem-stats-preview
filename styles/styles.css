@@ -81,6 +81,7 @@ h2 {
 img {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    mix-blend-mode: multiply;
 }
 
 .desktop-image {
