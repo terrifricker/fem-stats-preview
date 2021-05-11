@@ -81,7 +81,10 @@ img {
     border-bottom-right-radius: 5px;
     mix-blend-mode: multiply;
 }
-
+.mobile-image {
+    width: 365px;
+    height: 268px;
+}
 .desktop-image {
     width: 332.5px;
     height: 270px;
